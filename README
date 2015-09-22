@@ -1,0 +1,8 @@
+go into src
+type cmake .
+type make
+run ./Shell
+play with the shell
+type exit to exit the shell
+
+slideshow is at http://www.slideshare.net/turnerstrayhorn/os-final-project
